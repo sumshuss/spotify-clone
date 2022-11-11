@@ -1,5 +1,9 @@
-const Searchbar = () => (
-  <div>Loader</div>
-);
+import React from 'react'
 
-export default Searchbar;
+const Searchbar = () => {
+  return (
+    <div>Searchbar</div>
+  )
+}
+
+export default Searchbar
